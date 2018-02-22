@@ -15,8 +15,8 @@
     "type": "git"
   },
   "bin": {
-    "mocha": "./bin/mocha",
-    "_mocha": "./bin/_mocha"
+    "mocha-extended": "./bin/mocha-extended",
+    "_mocha-extended": "./bin/_mocha-extended"
   },
   "engines": {
     "node": ">= 4.0.0"
